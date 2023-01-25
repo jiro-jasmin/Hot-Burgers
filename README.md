@@ -31,7 +31,7 @@ and enter the following user credentials:
 - Dynamic pages
 - SQL database connection using both **PDO** and **mysqli** PHP classes
 - Handling cart with **session storage** in Javascript
-- Authentification (sign up & sign in with password hash) in PHP
+- Authentication (sign up & sign in with password hash) in PHP
 - Custom admin panel which allow the user to CRUD (Create, Read, Update, Delete) any items in the database through forms in PHP
 - Server-side form data validation
 
