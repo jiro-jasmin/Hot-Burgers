@@ -9,6 +9,10 @@ The use of a panel is recommanded for security (e.g prevents user from entering 
 ---  
   
 🚀 **[Click here to access to the online demo](https://hotburgers-berlin.000webhostapp.com/)** 🚀  
+   
+Alternatively, click here to watch a video demo:  
+ 
+[![CLICK HERE FOR VIDEO DEMO](https://img.youtube.com/vi/9IDCPDBPxUg/0.jpg)](https://youtu.be/9IDCPDBPxUg)
   
 ---
   
