@@ -76,4 +76,4 @@ If you have any suggestion or question regarding this project, do not hesitate t
 [Click here](https://github.com/jiro-jasmin?tab=repositories) to access to all my online repositories.  
 Thank you for visiting my profile!  
 
-If you would like to reach me, please contact me on my [LinkedIn profile here](https://www.linkedin.com/in/florian-j-giraud-8449091b8).
+If you would like to reach me, please contact me on my [LinkedIn profile here](https://www.linkedin.com/in/jiro-jasmin).
